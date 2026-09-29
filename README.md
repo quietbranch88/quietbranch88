@@ -10,13 +10,13 @@ I care about what happens beyond a successful model response: durable state, rel
 
 I turn messy goals—learning system design, speaking French, shipping reliable AI—into feedback loops people can use.
 
-`messy goal → practice → evidence → better next move` <img src="https://raw.githubusercontent.com/quietbranch88/zoetw88/main/assets/typing-system.svg" width="180" align="middle" alt="A tiny engineer typing at a laptop" />
+`messy goal → practice → evidence → better next move` <img src="./assets/typing-system.svg" width="180" align="middle" alt="A tiny engineer typing at a laptop" />
 
 ### Selected work
 
-- <img src="https://raw.githubusercontent.com/quietbranch88/zoetw88/main/assets/icons/microphone.svg" width="18" alt="Microphone" /> **[SpeakUp SD](https://speakupinterview.com/)** — a live voice-first system-design practice product. I built the practice-to-report workflow, including asynchronous processing, persisted reports, and idempotent job submission. [Product showcase](https://quietbranch88.github.io/speakup-sd-showcase/) · [Repository](https://github.com/quietbranch88/speakup-sd-showcase)
-- <img src="https://raw.githubusercontent.com/quietbranch88/zoetw88/main/assets/icons/language.svg" width="18" alt="Language" /> **[SpeakCanada AI](https://speak-canada.com/)** — live French-speaking practice for TCF Canada, with asynchronous scoring, saved reports, and reusable practice examples. [Product showcase](https://quietbranch88.github.io/tcf-canada-showcase/) · [Repository](https://github.com/quietbranch88/tcf-canada-showcase)
-- <img src="https://raw.githubusercontent.com/quietbranch88/zoetw88/main/assets/icons/workflow.svg" width="18" alt="Workflow" /> **[AI Workflow](https://github.com/quietbranch88/ai-workflow)** — practical workflows for coding agents, from specifications and isolated changes to verification, review, and durable handoffs.
+- <img src="./assets/icons/microphone.svg" width="18" alt="Microphone" /> **[SpeakUp SD](https://speakupinterview.com/)** — a live voice-first system-design practice product. I built the practice-to-report workflow, including asynchronous processing, persisted reports, and idempotent job submission. [Product showcase](https://quietbranch88.github.io/speakup-sd-showcase/) · [Repository](https://github.com/quietbranch88/speakup-sd-showcase)
+- <img src="./assets/icons/language.svg" width="18" alt="Language" /> **[SpeakCanada AI](https://speak-canada.com/)** — live French-speaking practice for TCF Canada, with asynchronous scoring, saved reports, and reusable practice examples. [Product showcase](https://quietbranch88.github.io/tcf-canada-showcase/) · [Repository](https://github.com/quietbranch88/tcf-canada-showcase)
+- <img src="./assets/icons/workflow.svg" width="18" alt="Workflow" /> **[AI Workflow](https://github.com/quietbranch88/ai-workflow)** — practical workflows for coding agents, from specifications and isolated changes to verification, review, and durable handoffs.
 
 The product repositories above are public showcases; application source code remains private.
 
