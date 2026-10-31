@@ -1,4 +1,4 @@
-# Quiet Branch — Backend Engineering & AI Applications
+# Zoe · Quiet Branch — Backend Engineering & AI Applications
 
 I'm a senior backend engineer working with **Go and Python**, with **5½ years in professional backend development and 9+ years of overall engineering experience** across manufacturing automation, mechanical engineering, and production software.
 
