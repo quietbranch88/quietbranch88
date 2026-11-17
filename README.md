@@ -1,21 +1,17 @@
 # Zoe · Quiet Branch — Backend Engineering & AI Applications
 
-I'm a senior backend engineer working with **Go and Python**, with **5½ years in professional backend development and 9+ years of overall engineering experience** across manufacturing automation, mechanical engineering, and production software.
+I'm a senior backend engineer working with **Go and Python**. I build and operate distributed systems for an enterprise IoT platform, and ship AI products for system-design and French-speaking practice.
 
-I build and operate distributed systems for an enterprise IoT platform and develop AI applications.
-
-I care about what happens beyond a successful model response: durable state, reliable delivery, failure recovery, observability, and user trust.
+I have **5½ years in professional backend development and 9+ years of overall engineering experience** across manufacturing automation, mechanical engineering, and production software.
 
 > **Make system behavior observable, failures recoverable, and feedback useful.**
 
-I turn messy goals—learning system design, speaking French, shipping reliable AI—into feedback loops people can use.
-
-`messy goal → practice → evidence → better next move` <img src="./assets/typing-system.svg" width="180" align="middle" alt="A tiny engineer typing at a laptop" />
+<img src="./assets/typing-system.svg" width="180" alt="A tiny engineer typing at a laptop" />
 
 ### Selected work
 
-- <img src="./assets/icons/microphone.svg" width="18" alt="Microphone" /> **[SpeakUp SD](https://speakupinterview.com/)** — a live voice-first system-design practice product. I built the practice-to-report workflow, including asynchronous processing, persisted reports, and idempotent job submission. [Product showcase](https://quietbranch88.github.io/speakup-sd-showcase/) · [Repository](https://github.com/quietbranch88/speakup-sd-showcase)
-- <img src="./assets/icons/language.svg" width="18" alt="Language" /> **[SpeakCanada AI](https://speak-canada.com/)** — live French-speaking practice for TCF Canada, with asynchronous scoring, saved reports, and reusable practice examples. [Product showcase](https://quietbranch88.github.io/tcf-canada-showcase/) · [Repository](https://github.com/quietbranch88/tcf-canada-showcase)
+- <img src="./assets/icons/microphone.svg" width="18" alt="Microphone" /> **[SpeakUp SD](https://speakupinterview.com/)** — voice-first practice for engineers preparing for system-design interviews, with saved reports to review after each session. I built the workflow from practice sessions to reports. [Product showcase](https://quietbranch88.github.io/speakup-sd-showcase/) · [Repository](https://github.com/quietbranch88/speakup-sd-showcase)
+- <img src="./assets/icons/language.svg" width="18" alt="Language" /> **[SpeakCanada AI](https://speak-canada.com/)** — French-speaking practice for people preparing for TCF Canada, with feedback and saved examples to support further practice. My work covers the scoring, saved reports, and reusable practice examples. [Product showcase](https://quietbranch88.github.io/tcf-canada-showcase/) · [Repository](https://github.com/quietbranch88/tcf-canada-showcase)
 - <img src="./assets/icons/workflow.svg" width="18" alt="Workflow" /> **[AI Workflow](https://github.com/quietbranch88/ai-workflow)** — practical workflows for coding agents, from specifications and isolated changes to verification, review, and durable handoffs.
 - <img src="./assets/icons/mcp.svg" width="18" alt="" /> **[AI Workflow Feed MCP](https://github.com/quietbranch88/ai-workflow-feed-mcp)** — a public, read-only remote MCP server for discovering articles about AI-assisted development and agent workflows, with source provenance. [MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.quietbranch88%2Fai-workflow-feed/versions/latest)
 
