@@ -2,7 +2,7 @@
 
 I'm a senior backend engineer working with **Go and Python**, with **5½ years in professional backend development and 9+ years of overall engineering experience** across manufacturing automation, mechanical engineering, and production software.
 
-I build and operate distributed systems for an enterprise IoT platform and develop AI applications with tenant-scoped Text-to-SQL, document RAG, access controls, and evaluation gates.
+I build and operate distributed systems for an enterprise IoT platform and develop AI applications.
 
 I care about what happens beyond a successful model response: durable state, reliable delivery, failure recovery, observability, and user trust.
 
